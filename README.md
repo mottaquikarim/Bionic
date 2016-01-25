@@ -49,7 +49,7 @@ Some screenshots attached; full landingpage + better docs coming soon.
 ![Home](/screenshots/k-buttons.png?raw=true)
 
 #### Icons
-![Home](/screenshots/k-icons.png?raw=true)
+![Home](/screenshots/k-icons2.png?raw=true)
 
 #### Lists
 ![Home](/screenshots/k-list.png?raw=true)
