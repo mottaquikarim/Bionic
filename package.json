@@ -1,0 +1,14 @@
+{
+  "name": "MovieButler",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "event-emitter": "^0.3.4",
+    "firebase": "^2.4.0",
+    "react-native": "^0.18.1",
+    "react-native-vector-icons": "^1.1.0"
+  }
+}
