@@ -30,4 +30,18 @@ Follow instructions [here](https://github.com/oblador/react-native-vector-icons#
 4. Tabs
 5. Componentized components (for now, `<Button>` is supported)
 
+### Screenshots
 
+Some screenshots attached; full landingpage + better docs coming soon.
+
+#### Home
+![Home](screenshots/k-home/png?raw=true)
+#### Headers
+
+#### Footers
+
+#### Buttons
+
+#### Icons
+
+#### Lists
