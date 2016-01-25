@@ -1,6 +1,7 @@
 # React Native "bootstrap" framework
 
 ## Heavily inspried by [Ionic](http://ionicframework.com/)
+(With icons from [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons))
 
 ### Installation
 
@@ -12,7 +13,7 @@
 
 #### To get Font-Awesome to work, you might need to set up the icons.
 
-Follow instructions [here](https://github.com/oblador/react-native-vector-icons#option-manually)
+Follow instructions [here](https://github.com/oblador/react-native-vector-icons#option-manually).
 
 ### Currently supported elements
 
@@ -39,10 +40,16 @@ Some screenshots attached; full landingpage + better docs coming soon.
 
 #### Headers
 ![Home](/screenshots/k-header.png?raw=true)
+
 #### Footers
+![Home](/screenshots/k-footer1.png?raw=true)
+![Home](/screenshots/k-footer2.png?raw=true)
 
 #### Buttons
+![Home](/screenshots/k-buttons.png?raw=true)
 
 #### Icons
+![Home](/screenshots/k-icons.png?raw=true)
 
 #### Lists
+![Home](/screenshots/k-list.png?raw=true)
