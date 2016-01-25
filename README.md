@@ -35,9 +35,10 @@ Follow instructions [here](https://github.com/oblador/react-native-vector-icons#
 Some screenshots attached; full landingpage + better docs coming soon.
 
 #### Home
-![Home](screenshots/k-home/png?raw=true)
-#### Headers
+![Home](/screenshots/k-home.png?raw=true)
 
+#### Headers
+![Home](/screenshots/k-header.png?raw=true)
 #### Footers
 
 #### Buttons
